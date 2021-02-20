@@ -20,7 +20,7 @@
     "gatsby-transformer-sharp": "^2.3.9",
     "isomorphic-fetch": "^2.2.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.9.4",
+    "node-sass": "^4.13.1",
     "prismic-dom": "^2.1.0",
     "prismic-reactjs": "^1.1.2",
     "qrcode.react": "^1.0.0",
